@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939996397277",
+    "project_id": "complaintapp-b39f6",
+    "storage_bucket": "complaintapp-b39f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939996397277:android:a15a95be56a5dbeda7a534",
+        "android_client_info": {
+          "package_name": "com.example.lastday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYMfvZVo-alma7_4NZc2afvAJcH30JXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
