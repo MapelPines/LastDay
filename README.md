@@ -19,9 +19,7 @@ Kullanıcıların mevcut problemleri bildirebileceği bir şikayet uygulaması.
 
 -Jetpack Compose
 
--mockAPI
-
--Retrofit
+-Firebase
 
 
 
